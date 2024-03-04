@@ -1,8 +1,8 @@
 {
-	"name": "aadi",
+	"name": "rajib",
 	"version": "1.0.1",
-	"description": "A simple Facebook Messenger Bot Modified by aadi",
-	"main": "aadi.js",
+	"description": "A simple Facebook Messenger Bot Modified by rajib",
+	"main": "rajib.js",
 	"scripts": {
 		"start": "pm2 link s9bwc3lzh6am3ks 2awd2heek4zxu9l; pm2 kill && pm2 start index.js -i 1 --no-daemon",
 		"login": "node login",
@@ -22,7 +22,7 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "ZiaRein",
+	"author": "rajib",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/sajedabot/Aadi-Bot/git"
