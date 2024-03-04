@@ -25,9 +25,9 @@
 	"author": "rajib",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/sajedabot/Aadi-Bot/git"
+		"url": "https://github.com/sajedabot/Rajib-Bot/git"
 	},
-	"homepage": "https://github.com/sajedabot/Aadi-Bot/git",
+	"homepage": "https://github.com/sajedabot/Rajib-Bot/git",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
